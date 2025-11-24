@@ -1,0 +1,5 @@
+1|blusita rosa|200|ropa casual
+2|pantalon de mezclillla|300|ropa de fiesta
+3|falda de mezclilla|280|ropa casual
+4|vestido floreados|315|ropa casual 
+5|corset blanco|345|ropa casual

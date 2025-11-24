@@ -1,0 +1,5 @@
+blusita rosa|200.0|3|600.0
+pantalon de mezclillla|300.0|3|900.0
+falda de mezclilla|280.0|2|560.0
+vestido floreados|315.0|4|1260.0
+corset blanco|345.0|2|690.0
